@@ -1,3 +1,4 @@
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👋 Hi, I’m @Vanilladev23
 - 👀 I’m interested in ...
