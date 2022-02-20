@@ -12,7 +12,6 @@ Vanilladev23/Vanilladev23 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-🌠💥💫💤💤😎😎💤💤💥💫🌠
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
