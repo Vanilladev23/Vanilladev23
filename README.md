@@ -5,7 +5,7 @@
 <a href="#" target="_blank">
   <img src="svg/vanilla23.svg" width="1200" alt="Click to see the source" />
 </a>
-
+<br>
 :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 👀 I’m interested in ...
@@ -25,8 +25,8 @@
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
-🛸</g-emoji> My knowledge</h3>
-<p dir="auto">🌌 In recent years I have gained a lot of knowledge in various programming languages, frameworks and other systems ...💠</p>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
