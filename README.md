@@ -1,6 +1,9 @@
+<div align="center">
+
 <img height="20px" width="95px" src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt=""></a>
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
+</div>
 <!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
 
 <a href="#" target="_blank">
