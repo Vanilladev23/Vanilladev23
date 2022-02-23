@@ -3,7 +3,7 @@
 <!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
 
 <a href="#" target="_blank">
-  <img src="svg/vailla23.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/vanilla23.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <!-- :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -21,6 +21,7 @@
     --->
 
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
