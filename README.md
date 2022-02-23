@@ -53,18 +53,21 @@
 
   <h2 align="center">👽 Where to find me 👽</h2>
 
-  <a href="#" target="blank">
+<a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Vanilladev-facebook" />
-  </a>
+</a>
+<a href="#" target="blank">
+    <img src="/Vanilladev23/img/icons8-github-500.png" alt="Vanilladev-github" />
+</a>
 
-  <br>
+<br>
 
-  <h2 align="center">📑 Random Quotes 📑</h2>
+<h2 align="center">📑 Random Quotes 📑</h2>
 
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-  
-</div>  
+
+</div>
