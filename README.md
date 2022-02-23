@@ -11,10 +11,7 @@
 
 <h2>:book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Hi there, I’m Vanilladev23 ...
 - 🧼 Frontend Developer ...
 - 🔥 Sometimes we have to burn ourselves with the things called passion ...
 <h3><p align="center">Just a snake eating my contributions 🐍</p></h3>
@@ -54,10 +51,10 @@
   <h2 align="center">👽 Where to find me 👽</h2>
 
 <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Vanilladev-facebook" />
+    <img src="https://img.icons8.com/bubbles/120/000000/facebook-new.png" alt="Vanilladev-facebook" />
 </a>
 <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/452/github.png" alt="Vanilladev-github" />
+    <img src="https://img.icons8.com/bubbles/120/000000/github.png" alt="Vanilladev-github" />
 </a>
 
 <br>
