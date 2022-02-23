@@ -1,4 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt=""></a> -->
+<img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt=""></a>
 
 <!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
 
@@ -6,14 +6,14 @@
   <img src="svg/vanilla23.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<!-- :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+:book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🧼 Frontend Developer ...
-- 🔥 Sometimes we have to burn ourselves with the things called passion ... -->
+- 🔥 Sometimes we have to burn ourselves with the things called passion ...
 
     <!---
     Vanilladev23/Vanilladev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
