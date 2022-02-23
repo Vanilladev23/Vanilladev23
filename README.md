@@ -12,9 +12,9 @@
 
 <br>
 
-<h2>:book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
+<h2>:book: About Me</h2>
 
-- 👀 Hi there, I’m Vanilladev23 ...
+- 🛸 Hi there, I’m Vanilladev23 ...
 - 🧼 Frontend Developer ...
 - 🔥 Sometimes we have to burn ourselves with the things called passion ...
 <h2><p align="center">Just a snake eating my contributions 🐍</p></h2>
@@ -38,7 +38,7 @@
 &nbsp;
 <br>
 </div>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">💧 GitHub Stats 💧</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 
