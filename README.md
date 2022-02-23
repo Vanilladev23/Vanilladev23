@@ -14,11 +14,11 @@
 - 👀 Hi there, I’m Vanilladev23 ...
 - 🧼 Frontend Developer ...
 - 🔥 Sometimes we have to burn ourselves with the things called passion ...
-<h3><p align="center">Just a snake eating my contributions 🐍</p></h3>
+<h2><p align="center">Just a snake eating my contributions 🐍</p></h2>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🌌 Technologies and Tools 🌌</h2>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
