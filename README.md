@@ -52,6 +52,11 @@
   <a href="#" title="Vanilladev23">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Vanilladev23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+
+  <br>
+
+  <h2 align="center">👽 Where to find me 👽</h2>
+
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Vanilladev-facebook" />
   </a>
@@ -65,6 +70,3 @@
 <div align="right">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-<hr>
-<br>
