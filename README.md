@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt=""></a>
 
-<h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1>
+<!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
 
 <a href="#" target="_blank">
   <img src="svg/vailla23.svg" width="1200" alt="Click to see the source" />
