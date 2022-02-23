@@ -57,7 +57,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Vanilladev-facebook" />
 </a>
 <a href="#" target="blank">
-    <img src="/Vanilladev23/img/icons8-github-500.png" alt="Vanilladev-github" />
+    <img src="https://img.icons8.com/bubbles/452/github.png" alt="Vanilladev-github" />
 </a>
 
 <br>
