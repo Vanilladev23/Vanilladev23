@@ -41,7 +41,7 @@
 <br>
   <p align="center">
     <a href="https://github.com/Vanilladev23/Vanilladev23">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vanilladev23" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanilladev23&theme=react&hide_border=true&stroke=0000&background=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
+        <img title="Vanilladev23" alt="Vanilladev23" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanilladev23&theme=react&hide_border=true&stroke=0000&background=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
     </a>
 </p>
 </div>
