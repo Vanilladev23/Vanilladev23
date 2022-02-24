@@ -65,9 +65,15 @@
     <img src="https://img.icons8.com/bubbles/120/000000/facebook-new.png" alt="Vanilladev-facebook" />
 </a>
 <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/120/000000/rocket.png" alt="Vanilladev-rocket" />
+</a>
+<a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/120/000000/github.png" alt="Vanilladev-github" />
 </a>
-
+<a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/120/000000/phone--v2.png" alt="Vanilladev-phone" />
+</a>
+  
 <br>
 
 <h2 align="center">📑 Random Quotes 📑</h2>
