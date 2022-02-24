@@ -39,6 +39,11 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <br>
+  <p align="center">
+    <a href="https://github.com/Vanilladev23/Vanilladev23/edit/main/README.md">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vanilladev23" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanilladev23&theme=react&hide_border=true&stroke=0000&background=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
+    </a>
+</p>
 </div>
 <h2 align="center">💧 GitHub Stats 💧</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
