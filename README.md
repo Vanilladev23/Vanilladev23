@@ -41,7 +41,23 @@
 <span><img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwind css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" alt="Prettier logo" title="Prettier" height="25" /></span>
-&nbsp;  
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp; 
+<span><img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Babel logo" title="Babel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Stylelint-282C34?logo=stylelint&logoColor=3f5efb" alt="Stylelint logo" title="Stylelint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ff8c00" alt="Rust logo" title="Rust" height="25" /></span>
+&nbsp;    
 <br>
   <p align="center">
     <a href="https://github.com/Vanilladev23/Vanilladev23">
