@@ -32,12 +32,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwind css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" alt="Prettier logo" title="Prettier" height="25" /></span>
+&nbsp;  
 <br>
   <p align="center">
     <a href="https://github.com/Vanilladev23/Vanilladev23">
