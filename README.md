@@ -14,9 +14,15 @@
 
 <h2>:book: About Me</h2>
 
-- 🛸 Hi there, I’m Vanilladev23 ...
-- 🧼 Frontend Developer ...
-- 🔥 Sometimes we have to burn ourselves with the things called passion ...
+<h4>. 🛸 Hi there, I’m Vanilladev23 ...</h4>
+
+<h4>. 🧼 Frontend Developer ...</h4>
+
+<h4>. 🔥 Sometimes we have to burn ourselves with the things called passion ...</h4>
+
+<div align="center">
+<img alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+</div>
 <h2><p align="center">Just a snake eating my contributions 🐍</p></h2>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
