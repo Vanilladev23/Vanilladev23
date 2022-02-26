@@ -21,11 +21,11 @@
 <h4>. 🔥 Sometimes we have to burn ourselves with the things called passion ...</h4>
 
 <div align="center">
-<img alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<a href="#" target="_blank"><img alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"></a>
 </div>
 <h2><p align="center">Just a snake eating my contributions 🐍</p></h2>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<a href="#" target="_blank"><img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg"></a>
 </p>
 <h2 align="center">🌌 Technologies and Tools 🌌</h2>
 <br>
