@@ -56,10 +56,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Stylelint-282C34?logo=stylelint&logoColor=3f5efb" alt="Stylelint logo" title="Stylelint" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ff8c00" alt="Rust logo" title="Rust" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/EditorConfig-282C34?logo=editorConfig&logoColor=ff758c" alt="EditorConfig logo" title="EditorConfig" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ff8c00" alt="Rust logo" title="Rust" height="25" /></span>
+&nbsp;  
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;   
 <br>
