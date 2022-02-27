@@ -65,13 +65,16 @@
 <span><img src="https://img.shields.io/badge/EditorConfig-282C34?logo=editorConfig&logoColor=ff758c" alt="EditorConfig logo" title="EditorConfig" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ff8c00" alt="Rust logo" title="Rust" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipse ide&logoColor=3f5efb" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GNU Bash-282C34?logo=gnu bash&logoColor=4EAA25" alt="GNU Bash logo" title="GNU Bash" height="25" /></span>
-&nbsp;  
+&nbsp;
+   
 <br>
   <p align="center">
     <a href="https://github.com/Vanilladev23/Vanilladev23">
