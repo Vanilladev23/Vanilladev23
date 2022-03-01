@@ -74,6 +74,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GNU Bash-282C34?logo=gnu bash&logoColor=4EAA25" alt="GNU Bash logo" title="GNU Bash" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=38ef7d" alt="Express logo" title="Express" height="25" /></span>
+&nbsp;  
    
 <br>
   <p align="center">
