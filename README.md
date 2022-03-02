@@ -94,9 +94,6 @@
     <img src="https://img.icons8.com/bubbles/120/000000/rocket.png" alt="Vanilladev-rocket" />
 </a>
 <a href="#" target="blank">
-    <img src="https://img.icons8.com/external-microdots-premium-microdot-graphic/108/000000/external-animal-animal-kingdom-vol2-microdots-premium-microdot-graphic-7.png" alt="Vanilladev-phone" />
-</a>  
-<a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/120/000000/github.png" alt="Vanilladev-github" />
 </a>
 <a href="#" target="blank">
