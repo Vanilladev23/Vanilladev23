@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
 <img height="20px" width="95px" src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt=""></a>
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-</div>
+</div> -->
 <!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
 
 <a href="#" target="_blank">
@@ -61,6 +61,8 @@
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=38ef7d" alt="Express logo" title="Express" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" /></span>
 &nbsp;  
 <br>
   <p align="center">
