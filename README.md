@@ -12,8 +12,8 @@
 
 <br>
 
-<h2>:book: About Me</h2>
-
+<h2>:book: About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
+</h2>
 <h4>. 🛸 Hi there, I’m Vanilladev23 ...<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"></h4>
 
 <h4>. 🧼 Frontend Developer ...</h4>
@@ -82,7 +82,7 @@
   <a href="#" title="Vanilladev23">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Vanilladev23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-
+  
   <br>
 
   <h2 align="center">👽 Where to find me 👽</h2>
