@@ -5,7 +5,6 @@
 
 </div> -->
 <!-- <h1 align="center" dir="auto"></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Vanilla23</h1> -->
-
 <a href="#" target="_blank">
   <img src="svg/vanilla23.svg" width="1200" alt="Click to see the source" />
 </a>
@@ -101,8 +100,16 @@
 </a>
   
 <br>
-
-<h2 align="center">📑 Random Quotes 📑</h2>
+<div align="center">
+<h2>:zany_face: Joke of the day</h2>
+  <details>
+    <summary>See joke</summary>
+      <a href="#" target="blank">
+        <img src="https://readme-jokes.vercel.app/api?theme=onedark&animation" alt="Jokes Card" />
+      </a>
+  </details>
+</div>
+<h2 align="center">📑 💭 Random Dev Quotes 💭 📑</h2>
 
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
