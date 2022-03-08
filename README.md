@@ -63,23 +63,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" /></span>
 &nbsp;  
-<br>
-  <p align="center">
-    <a href="https://github.com/Vanilladev23/Vanilladev23">
-        <img title="Vanilladev23" alt="Vanilladev23" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanilladev23&theme=react&hide_border=true&stroke=0000&background=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
-    </a>
-</p>
 </div>
 <h2 align="center">💧 GitHub Stats 💧</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-
+<p align="center">
+    <a href="https://github.com/Vanilladev23/Vanilladev23">
+        <img width="520" title="Vanilladev23" alt="Vanilladev23" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanilladev23&theme=onedark&animation&hide_border=true&stroke=0000&background=282c34&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
+    </a>
+</p>
 <div align=center>
   <a href="#" title="Vanilladev23">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilladev23&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilladev23&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&show_icons=true&theme=onedark&animation&border_color=61dafb&hide_border=true&langs_count=8&layout=compact" />
   </a>
   <a href="#" title="Vanilladev23">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Vanilladev23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Vanilladev23&show_icons=true&theme=onedark&animation&border_color=61dafb&hide_border=true" />
   </a>
   
   <br>
