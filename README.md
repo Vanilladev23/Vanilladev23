@@ -53,7 +53,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ff8c00" alt="Rust logo" title="Rust" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=android studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;  
