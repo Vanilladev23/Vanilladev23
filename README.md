@@ -41,27 +41,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=IntelliJ IDEA&logoColor=ff8c00" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
+&nbsp;  
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwind css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=03e304" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=android studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
-&nbsp;  
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=38ef7d" alt="Express logo" title="Express" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" /></span>
 &nbsp;  
 </div>
 <h2 align="center">💧 GitHub Stats 💧</h2>
