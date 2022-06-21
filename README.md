@@ -50,6 +50,10 @@
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=android studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OpenJDK-282C34?logo=OpenJDK&logoColor=0575e6" alt="OpenJDK" title="OpenJDK" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" /></span>
 &nbsp;  
 </div>
 <h2 align="center">💧 GitHub Stats 💧</h2>
