@@ -49,12 +49,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=android studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;  
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=Buy Me A Coffee&logoColor=FFDD00" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenJDK-282C34?logo=OpenJDK&logoColor=0575e6" alt="OpenJDK" title="OpenJDK" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" /></span>
-&nbsp;  
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=Adobe Photoshop&logoColor=31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" height="25" /></span>
+&nbsp;
 </div>
 <h2 align="center">💧 GitHub Stats 💧</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
