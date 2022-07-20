@@ -55,6 +55,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3DDC84" alt="Android" title="Android" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=Adobe Photoshop&logoColor=31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" height="25" /></span>
 &nbsp;
 </div>
@@ -101,7 +103,7 @@
       </a>
   </details>
 </div>
-<h2 align="center">📑 💭 Random Dev Quotes 💭 📑</h2>
+<h2 align="center">📑 Random Dev Quotes 📑</h2>
 
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
